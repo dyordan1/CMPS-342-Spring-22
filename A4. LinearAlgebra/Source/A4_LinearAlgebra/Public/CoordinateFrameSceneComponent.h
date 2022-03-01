@@ -3,19 +3,18 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "Engine/EngineTypes.h"
 #include "Components/SceneComponent.h"
-#include "VectorSceneComponent.generated.h"
+#include "CoordinateFrameSceneComponent.generated.h"
 
 
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
-class A4_LINEARALGEBRA_API UVectorSceneComponent : public USceneComponent
+class A4_LINEARALGEBRA_API UCoordinateFrameSceneComponent : public USceneComponent
 {
 	GENERATED_BODY()
 
 public:	
 	// Sets default values for this component's properties
-	UVectorSceneComponent();
+	UCoordinateFrameSceneComponent();
 
 protected:
 	// Called when the game starts
