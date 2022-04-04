@@ -1,0 +1,1 @@
+[Kaguya-sama:Love is War Student council](https://skfb.ly/6Y6zy) by KaguyasamaFA is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
